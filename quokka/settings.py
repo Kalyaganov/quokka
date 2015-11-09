@@ -267,7 +267,7 @@ ADMIN_ICONS = [
 ]
 
 # front end theme
-DEFAULT_THEME = 'pure'
+DEFAULT_THEME = 'futurobot'
 
 # default content extension for url buildind
 CONTENT_EXTENSION = "html"
